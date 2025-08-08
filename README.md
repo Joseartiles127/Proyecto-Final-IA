@@ -1,7 +1,7 @@
 # Proyecto-de-Final-IA
 
-## Nombre
+## Jose Alberto Artiles
 
-## Matrícula
+## 23-MISN-2-013
 
 ## Proyecto
