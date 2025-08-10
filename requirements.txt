@@ -1,0 +1,10 @@
+numpy
+opencv-python
+mediapipe
+gradio
+torch
+torchaudio
+torchvision
+pillow
+keras
+matplotlip
